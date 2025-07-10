@@ -1,3 +1,3 @@
-# grid_like_bootstrap
+# grid_like_bootstrap_without_scss
 
-### not clear yet
+## live link
